@@ -76,3 +76,28 @@ User class Virtual functions overridden by Member and Admin.
 The displayMenu is different depending on the user role.
 
 Display role-specific information is shown using displayInfo ()
+
+
+Set Up
+
+In order to implement this project with Visual Studio, you must have installed the following:
+
+Visual Studio (including Desktop development using C++).
+
+Cmake(lastest version).
+
+A compiler (Using C++ - Visual Studio is included with a C++ compiler).
+
+Default System Credentials
+
+Admin
+
+Username: admin
+
+Password: admin123
+
+Librarian
+
+Username: librarian
+
+Password: lib123
