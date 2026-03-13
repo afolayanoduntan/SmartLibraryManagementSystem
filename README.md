@@ -92,12 +92,18 @@ Default System Credentials
 
 Admin
 
-Username: admin
+Email: admin@bucks.ac.uk
 
 Password: admin123
 
 Librarian
 
-Username: librarian
+Email: librarian@bucks.ac.uk
 
 Password: lib123
+
+Member
+
+Email: 11112222@bucks.ac.uk
+
+Password: password
